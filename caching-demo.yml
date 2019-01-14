@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: caching-demo
+
+server:
+  port: 8081
+
+message: Gruetzi
